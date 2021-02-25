@@ -1,0 +1,2 @@
+# kibanaLogger
+Simple kibana logger
